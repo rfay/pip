@@ -120,7 +120,7 @@ In most cases, pip will complete the backtracking process successfully.
 This could take a very long time to complete, so this may not be your
 preferred option.
 
-However, it is a possible that pip will not be able to find a set of
+However, it is possible that pip will not be able to find a set of
 compatible versions. For this, pip will try every possible combination that
 it needs to and determine that there is no compatible set.
 
